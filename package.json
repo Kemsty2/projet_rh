@@ -29,7 +29,7 @@
   "bugs": "https://github.com/kemsty2/projet_rh/issues",
   "files": [
     "index.js",
-    "lib/*.js"
+    "lib/*"
   ],
   "readmeFilename": "README.md"
 }
