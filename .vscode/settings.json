@@ -10,8 +10,11 @@
         "elts",
         "helpers",
         "kemsty",
+        "keywords",
         "localstorage",
         "projetrh",
+        "repartition",
+        "repartitionrh",
         "save",
         "strikethrough",
         "yellow"

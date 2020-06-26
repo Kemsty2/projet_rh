@@ -3,12 +3,12 @@
 const clear = require("clear");
 const chalk = require("chalk");
 const figlet = require("figlet");
-const inquirer = require("./lib/inquirer");
+const inquirer = require("./lib/inquirer/index");
 const {
   getGestionnaireForClient,
   createCsvFile,
   createCsvRow,
-} = require("./lib/helpers");
+} = require("./lib/helpers/index");
 
 const CLI = require("clui");
 const Spinner = CLI.Spinner;
