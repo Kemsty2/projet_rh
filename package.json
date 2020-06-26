@@ -1,6 +1,6 @@
 {
   "name": "repartition-rh",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Find distinct couples of projects for unique users",
   "keywords": [
     "cli",
