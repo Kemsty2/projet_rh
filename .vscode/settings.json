@@ -9,6 +9,7 @@
         "author",
         "clui",
         "elts",
+        "examples",
         "helpers",
         "kemsty",
         "keywords",
@@ -16,6 +17,7 @@
         "projetrh",
         "repartition",
         "repartitionrh",
+        "resultat",
         "save",
         "strikethrough",
         "yellow"

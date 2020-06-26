@@ -39,6 +39,8 @@ const run = async () => {
 
     createCsvFile(createCsvRow(listOfClients), status);
   } catch (err) {
+    console.log(chalk`{red ${err.message}}`);
+
     console.log(
       chalk`{red ${"Erreur lors de la répartition des gestionnaires, Veuillez réessayer s'il vous plaît!"}}`
     );
