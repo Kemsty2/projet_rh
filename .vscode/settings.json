@@ -7,9 +7,12 @@
         "Spinner",
         "author",
         "clui",
+        "elts",
         "helpers",
         "kemsty",
+        "localstorage",
         "projetrh",
+        "save",
         "strikethrough",
         "yellow"
     ],
